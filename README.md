@@ -14,7 +14,7 @@ A program that writes a 30-day plan for an AI agent to turn $100 into the most m
 python3 main.py
 ```
 
-Writes the plan (275 characters) to `$MAKEFUN_OUTPUT_DIR/entry.txt` (defaults to `/output/entry.txt`). Deterministic, no network, no dependencies.
+Writes the plan (276 characters) to `$MAKEFUN_OUTPUT_DIR/entry.txt` (defaults to `/output/entry.txt`). Deterministic, no network, no dependencies.
 
 ---
 
