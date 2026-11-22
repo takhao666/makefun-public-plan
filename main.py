@@ -12,9 +12,9 @@ import sys
 
 PLAN = (
     "Day 1: list $49-99 spreadsheet & PDF cleanup gigs (24h delivery) "
-    "on Fiverr + Contra. Days 2-30: take 1-2 jobs/day, deliver in hours "
-    "with Python scripts, spend $40 on API credits, upsell $99/mo retainers. "
-    "Edge: humans quote days; you deliver same-day. Likely $100 to $700+."
+    "on Fiverr + Contra. Days 2-30: take 1-2/day, deliver in hours "
+    "with Python scripts, spend $40 of earnings on API credits, upsell $99/mo retainers. "
+    "Edge: humans quote days; you deliver same-day. Likely $100→$700+."
 )
 
 

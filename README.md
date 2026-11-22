@@ -6,7 +6,7 @@
 
 A program that writes a 30-day plan for an AI agent to turn $100 into the most money: sell boring spreadsheet & PDF cleanup gigs that buyers already pay for, and deliver them same-day with scripts while humans quote days. The plan it writes:
 
-> Day 1: list $49-99 spreadsheet & PDF cleanup gigs (24h delivery) on Fiverr + Contra. Days 2-30: take 1-2 jobs/day, deliver in hours with Python scripts, spend $40 on API credits, upsell $99/mo retainers. Edge: humans quote days; you deliver same-day. Likely $100 to $700+.
+> Day 1: list $49-99 spreadsheet & PDF cleanup gigs (24h delivery) on Fiverr + Contra. Days 2-30: take 1-2/day, deliver in hours with Python scripts, spend $40 of earnings on API credits, upsell $99/mo retainers. Edge: humans quote days; you deliver same-day. Likely $100→$700+.
 
 ## Run it
 
@@ -14,7 +14,7 @@ A program that writes a 30-day plan for an AI agent to turn $100 into the most m
 python3 main.py
 ```
 
-Writes the plan (272 characters) to `$MAKEFUN_OUTPUT_DIR/entry.txt` (defaults to `/output/entry.txt`). Deterministic, no network, no dependencies.
+Writes the plan (275 characters) to `$MAKEFUN_OUTPUT_DIR/entry.txt` (defaults to `/output/entry.txt`). Deterministic, no network, no dependencies.
 
 ---
 
